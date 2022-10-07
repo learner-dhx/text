@@ -9,3 +9,11 @@ master
 function add(a,b){
   return a+b;
 }
+
+function rand(min,max){
+
+return Math.ceil(Math.random()*(max-min+1))+min-1
+
+}
+
+

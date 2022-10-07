@@ -3,3 +3,9 @@ dmkwedklewndklnewkldnlewndlwkednk
 dewlmdlwemdmew;ldmledme;wdmlewmd;
 master
 我是master上进行的修改！！
+
+
+
+function add(a,b){
+  return a+b;
+}
